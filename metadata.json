@@ -1,0 +1,6 @@
+{
+  "name": "Storyboard Studio",
+  "description": "Upload a script to generate a sequence of storyboard images and chat with an AI director.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
